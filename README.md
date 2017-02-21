@@ -5,8 +5,11 @@ This is the github account of IoT Austria.
 # Imprint
 
 IoT Austria - The Austrian Internet of Things Network
+
 Kaiserstrasse 94/7
+
 A-1070 Wien
+
 Austria, EU
 
 Vereinsregister: ZVR-Zahl: 894834954
